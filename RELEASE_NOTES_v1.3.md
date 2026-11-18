@@ -1,3 +1,4 @@
+<!-- AEGIS-FP CQ3D54VBHZJY3NCV · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License) -->
 ## Janus String Calculator v1.3
 
 **What's new**

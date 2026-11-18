@@ -1,3 +1,4 @@
+# AEGIS-FP GDHL5XPE4NSAICGL · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License)
 """J7b (locked PREREG_J7b_aspic_wide). Usage: python3 ... r0 | run | summary. Resumable jsonl."""
 import sys, os, json, time, math, numpy as np, warnings; sys.path.insert(0, '.'); warnings.filterwarnings('ignore')
 from tools.janus_calc.core import Model, spectra3

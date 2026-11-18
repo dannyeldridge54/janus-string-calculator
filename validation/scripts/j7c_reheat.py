@@ -1,3 +1,4 @@
+# AEGIS-FP WEY5ZWDS3VQ5GE2G · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License)
 """J7c (locked PREREG_J7c_aspic_reheating). Usage: python3 ... run | summary."""
 import sys, os, json, time, math, numpy as np, warnings; sys.path.insert(0, '.'); warnings.filterwarnings('ignore')
 from scipy.optimize import brentq

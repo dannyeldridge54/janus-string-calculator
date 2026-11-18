@@ -1,3 +1,4 @@
+<!-- AEGIS-FP YLSHWH47ILSFU4PT · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License) -->
 # AEGIS Commercial License 1.0 (terms summary; full agreement signed per licensee)
 
 ## Who needs it

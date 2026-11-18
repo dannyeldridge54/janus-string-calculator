@@ -1,3 +1,4 @@
+<!-- AEGIS-FP EKWV6MCI3S2BYPVL · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License) -->
 # PREREG J6b — next-to-leading-order δN power spectrum and r (follows D999)
 
 Locked 2026-11-17 before any J6b number is computed.

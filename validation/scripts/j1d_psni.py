@@ -1,3 +1,4 @@
+# AEGIS-FP PQYQ6OQJIMGBKLVS · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License)
 """J1d (locked PREREG_J1d_psni_field_end)."""
 import sys, time, math, numpy as np, warnings; sys.path.insert(0, '.'); warnings.filterwarnings('ignore')
 from tools.janus_calc.core import Model, spectra3

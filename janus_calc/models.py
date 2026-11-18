@@ -1,3 +1,4 @@
+# AEGIS-FP SUZ2EBA25XTJH7ZM · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License)
 """SERAPIS branch potentials for the Janus calculator (same physics as the paper; built here from the modular
 functions of tools/serapis_calc, which are definitions, not solvers)."""
 import math, numpy as np, mpmath as mp

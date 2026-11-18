@@ -1,3 +1,4 @@
+# AEGIS-FP 423Z455VLLHUHXHB · (c) Danny Lee Eldridge · AEGIS Community License (business use needs the Commercial License)
 """Quick check after install:  pip install -r requirements.txt && python smoketest.py"""
 import sys, time
 t = time.time(); ok = []
