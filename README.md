@@ -42,4 +42,6 @@ Needs numpy, scipy, sympy, mpmath; run from this folder (the modular functions, 
 
 ## Support this work
 
+*This work is made for personal freedom: so that anyone can check the truth for themselves in a world of illusion and lies.*
+
 All of this (the research, the toolkits and the papers) is built by one person, Danny Eldridge, an independent, self-taught researcher in Oklahoma City, working with the help of AI. He is trying to change his circumstances in life, and he promises to keep doing what he is doing now: releasing the work openly, free to individuals, scientists and students, and using it to try to make the world a better place. If it helps you, a donation of any size keeps it going: **email dannyeldridge54@gmail.com to donate** (a direct donation link is coming). Businesses: please license through the AEGIS Commercial License instead.
