@@ -1,11 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "Janus String Calculator: fast validated inflationary observables (single- and two-field, third order, reheating)"
-version: "1.2"
-date-released: 2026-11-17
-doi: "10.5281/zenodo.24299624"
+version: "1.3"
+date-released: 2026-11-18
 authors:
   - family-names: Eldridge
     given-names: Danny
     email: dannyeldridge54@gmail.com
-license: MIT
+license: LicenseRef-AEGIS-Community-1.0
